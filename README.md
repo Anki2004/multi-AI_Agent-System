@@ -6,8 +6,6 @@ This repository contains a multi-agent AI system that automates cybersecurity th
 - LangChain-Groq (Llama 3-70B) for AI-powered reasoning
 - EXA API for real-time cybersecurity intelligence search
 
-Explore the code in this repository in depth at [ProjectPro's Multi AI Agent article.](https://www.projectpro.io/article/multi-agent-ai/1083)
-
 ## Key Features
 - **Threat Intelligence Gathering** – Fetches the latest malware trends and cyberattacks
 - **Vulnerability Research** – Identifies and analyzes new CVEs (Common Vulnerabilities and Exposures)
@@ -64,3 +62,4 @@ Recommended Actions
 
 ## Contributing
 Feel free to fork, open issues, and contribute to enhance this AI-powered cybersecurity tool.
+
