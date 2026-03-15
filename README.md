@@ -34,7 +34,7 @@ This repository contains a multi-agent AI system that automates cybersecurity th
 !pip -qqq install exa_py --progress-bar off
 ```
 =
-**Note:** Get your API keys for `GROQ_API_KEY` and `EXA_API_KEY` before running the colab notebook.
+**Note:** Get your API keys for `GROQ_API_KEY` and `EXA_API_KEY` before running this project.
 
 ## Sample Output
 ```
